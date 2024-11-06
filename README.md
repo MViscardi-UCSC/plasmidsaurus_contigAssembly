@@ -19,8 +19,8 @@ To avoid this, just have the `SRR30810013.fastq` file in the same directory as t
 Note: All build assemblies and annotations are retained in the `output` directory.
 The `contig_1` appears to be the biologically relevant assembly, as it is the only one with any rRNA annotated.
 
-3. The SRR30810013 (or other short read archive samples defined in the Snakemake file) directory and the identically
-named .fastq file(s) can be deleted after the run is complete.
+3. The SRR30810013 directory and the identically
+named .fastq file can be deleted after the run is complete.
 They are retained here for reproducibility and step checking.
 
 ### General Process Overview:
