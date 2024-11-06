@@ -7,7 +7,7 @@
 - Internet connection
 
 ### Running:
-1. For the simples implementation, run the Snakefile with the following command:
+1. For the simplest implementation, run the Snakefile with the following command:
 ```bash
 snakemake --use-singularity
 ```
